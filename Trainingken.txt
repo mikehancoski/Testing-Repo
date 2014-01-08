@@ -2,10 +2,12 @@ Testing GIT again
 
 edit completed, yes?
 
+More Merges round 3 - mike
 
 Mikes edit 
 
 I am the very model of a modern GitHub coderman
+
 I studied every languge from the common to the never-ran
 ??? more fun with Training-Ken
 
@@ -13,3 +15,9 @@ Fun with branches.
 
 
 Merge does not really work for Ken Just for me -mike
+
+I studied every languge from the common to the never-ran (Ken)
+
+
+OMG MERGES -mike
+
