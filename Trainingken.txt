@@ -7,6 +7,6 @@ Mikes edit
 
 I am the very model of a modern GitHub coderman
 I studied every languge from the common to the never-ran
->>>>>>> more fun with Training-Ken
+??? more fun with Training-Ken
 
 Fun with branches.
