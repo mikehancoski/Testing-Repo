@@ -1,5 +1,3 @@
-
-
 <html>
 <body>
 This is a list of examples .... or will be.
