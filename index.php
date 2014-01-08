@@ -1,5 +1,7 @@
 <html>
-
+<body>
+This is a list of examples .... or will be.
+</br>
 <?php
 
 $testList = array("milk", "eggs", "bread", 
@@ -15,5 +17,5 @@ for ($i=0; $i<$l; $i++) {
 	echo "<li> " . $testList[$i];
 }
 ?>
-
+</body>
 </html>
